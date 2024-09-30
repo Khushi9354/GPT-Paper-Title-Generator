@@ -1,3 +1,8 @@
+# Project Title
+**Tags:**
+machine-learning, natural-language-processing, ai, deep-learning, neural-network, tensorflow, text-generation, transformer, tensorflow-experiments, generative-models, title-generation, gpt-2
+
+
 Forecasting the progress of research is an elusive and important goal.
 Here, we take a toy step towards this goal by exploring generating new scientific paper titles given past titles on arXiv:
 1. We generate titles conditioned on a specific author (using GPT-3 without finetuning)
