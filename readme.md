@@ -95,7 +95,7 @@ pipe('2022\n\n')
 > Automating the Visualization of Convolutional Neural Networks
 ```
 
-During finetuning each paper title was given in the format `<year>\n\n <title>\n` (e.g. `2020\n\n Interpretations are useful: penalizing explanations to align neural networks with prior knowledge\n`). The same format should be used for inference. These samples are considerably better than the samples we made with GPT2 [back in 2019](https://csinva.io/gpt-paper-title-generator/gpt2) (the good old days).
+During finetuning each paper title was given in the format `<year>\n\n <title>\n` (e.g. `2020\n\n Interpretations are useful: penalizing explanations to align neural networks with prior knowledge\n`). The same format should be used for inference. These samples are considerably better.
 
 
 ## 3  &nbsp; Generated paper evaluation
@@ -131,6 +131,6 @@ This post was very limited, but there are a bunch of directions to explore to se
 
 ## Reference
 
-- Code [here](https://github.com/csinva/gpt-paper-title-generator)
+- Code [here](https://github.com/Khushi9354/GPT-Paper-Title-Generator.git)
 - arXiv dataset from [here](https://www.kaggle.com/datasets/Cornell-University/arxiv)
 - Adorable robot from [here](http://pngimg.com/uploads/robot/robot_PNG94.png)
